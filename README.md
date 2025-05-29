@@ -1,5 +1,5 @@
 - 👋 Hi, I’m MohamadAli
-- 👀 I’m interested in Cryptography, Quantum Computing Specially Quantum Machine Learning
+- 👀 I’m interested in Cryptography, Quantum Computing especially Quantum Machine Learning
 - 🌱 I’m currently working on the Quantum Security of Symmetric Cryptography 
 - 💞️ I’m looking to collaborate in these fields
 
