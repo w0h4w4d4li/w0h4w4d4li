@@ -9,6 +9,6 @@ You can click the Preview link to take a look at your changes.
 --->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,git,kali,docker,vim,matlab,r" />
+    <img src="https://skillicons.dev/icons?i=git,kali,docker,c,vim" />
   </a>
 </p>
