@@ -8,7 +8,7 @@ w0h4w4d4li/w0h4w4d4li is a ✨ special ✨ repository because its `README.md` (t
 You can click the Preview link to take a look at your changes.
 --->
 <p align="center">
-  <a href="https://skillicons.dev">
+  <a href="https://0d4y.ir">
     <img src="https://skillicons.dev/icons?i=py,git,kali,docker,vim,matlab,r" />
   </a>
 </p>
