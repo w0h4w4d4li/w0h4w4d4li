@@ -12,3 +12,6 @@ You can click the Preview link to take a look at your changes.
     <img src="https://skillicons.dev/icons?i=py,git,kali,docker,vim,matlab,r" />
   </a>
 </p>
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=w0h4w4d4li&show_icons=true&theme=github_dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=w0h4w4d4li&layout=compact&theme=github_dark)
