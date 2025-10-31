@@ -1,7 +1,6 @@
 - 👋 Hi, This is MohamadAli
-- 👀 I’m interested in Cryptography, Quantum Computing, Optimization
+- 👀 I’m interested in Cryptography, Quantum Computing
 - 🌱 I’m currently working on the Quantum security of Cryptographic protocols 
-- 💞️ I’m looking to collaborate in these fields
 
 <!---
 w0h4w4d4li/w0h4w4d4li is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
